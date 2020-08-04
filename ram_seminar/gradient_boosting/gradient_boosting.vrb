@@ -1,0 +1,10 @@
+\frametitle{Pseudocode}
+\href{https://en.wikipedia.org/wiki/Gradient_boosting#Algorithm}{see pseudocode here} \par
+What to tell:
+\begin{itemize}
+	\item Learning rate. It's called shrinkage sometimes (like one other thing).
+	\item Line search (from wiki pseudocode) sucks.
+	\item Gradient boosting is an inferior approximation of simple boosting.
+	\item Greedy trees.
+	\item Other score functions (like 'mae' in sklearn) are strange.
+\end{itemize}
